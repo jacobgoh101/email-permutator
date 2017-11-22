@@ -1,0 +1,9 @@
+{
+  "name": "email-permutator",
+  "version": "1.0.0",
+  "description": "Generate a list of emails based on a person's name and email domain.",
+  "main": "index.js",
+  "repository": "https://github.com/jacobgoh101/email-permutator",
+  "author": "Jacob Goh",
+  "license": "MIT"
+}
